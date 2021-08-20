@@ -2,3 +2,6 @@
 
 #ECHO COMMAND
 echo Hello World!
+#VARIABLE
+NAME="Samson"
+echo "My Name is $NAME"
