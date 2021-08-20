@@ -1,2 +1,2 @@
 #!/bin/bash
-#ECHO COMMAND
+echo ./0-current_working_directory
