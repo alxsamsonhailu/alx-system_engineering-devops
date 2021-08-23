@@ -1,2 +1,2 @@
 #! /bin/bash
-grep -E # User Database
+echo /etc/passwd
